@@ -1,1 +1,1 @@
-# chess-discord-bot
+# submitted for 2025 dali application
