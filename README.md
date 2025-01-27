@@ -1,6 +1,6 @@
 
 
-## Process
+## SUBMITTED FOR DALI 2025
 
 ### Preparing the Dataset
 - Images of barnacles and their corresponding masks were used.
