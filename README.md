@@ -49,11 +49,11 @@ matplotlib
 
 ### Outputs
 - Binary masks showing predicted barnacle regions.
-- Model Accuracy
+- Model accuracy
 
 ## Conclusions
 - **Strengths**: Logistic regression provides a simple and interpretable baseline for pixel classification.
-- **Challenges**: Memory limitations required optimizations like batch-based processing. Makes things much more inefficient and inaccurate.
+- **Challenges**: Memory limitations required optimizations like batch-based processing. Makes things much more inefficient and inaccurate. Also generally could use more training data for the sake of accuracy.
 - **Future Suggestions**:
-  - Add more features (e.g., spatial location or texture).
+  - Add more features (like spatial location or texture).
   - Experiment with advanced models like Random Forests or CNNs for better accuracy.
