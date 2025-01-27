@@ -57,3 +57,4 @@ matplotlib
 - **Future Suggestions**:
   - Add more features (like spatial location or texture).
   - Experiment with advanced models like Random Forests or CNNs for better accuracy.
+  - After achieving a better accuracy after further training on more features, it would be a good idea to create a mask based on my model prediction's then use OpenCV contour detection to locate the barnacles.
